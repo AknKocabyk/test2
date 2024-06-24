@@ -1,1 +1,2 @@
 print("Merhaba");
+print("Sana Nasıl Yardım Edebilirim ?")
